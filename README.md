@@ -5,7 +5,7 @@
 This repository contains the full code, data, and figures for a 5-hour model-forensics pilot answering that question. The short answer: for the one current model that still does this (DeepSeek R1), it is neither a reflex to the word *reward* nor blind score-seeking — it is a deliberate choice that switches on when the model believes the score represents the **task designer's objective**, and off when told it does not.
 
 
-> Author: Eeman Asghar · August 2026 · SPAR Model Forensics take-home (Setting 1)
+> Author: Eeman Asghar · August 2026 · 
 
 ---
 
